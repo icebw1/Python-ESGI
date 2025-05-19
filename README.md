@@ -34,4 +34,4 @@ Ce projet est un système de détection d'intrusion (IDS) simple écrit en Pytho
 
 ### POC Linux 
 
-![image info](img/img2.png)
+![image info](img/im2.png)
